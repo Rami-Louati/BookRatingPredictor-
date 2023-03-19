@@ -1,11 +1,11 @@
 # BookRatingPredictor-
 Table of contents:
 
-   1. CSV file overview used in this project
-   2. Description of the jupyter notebook
-   3. Description of requirements.txt file
+   1. Dataset: CSV file
+   2. Jupyter notebook
+   3. Requirements.txt
    
-## 1. CSV file overview used in this project-
+## 1. Dataset: CSV file-
 
 
 The dataset provided is a curation of Goodreads books based on real user information.
@@ -30,17 +30,16 @@ standard for English.
 This file needs to be downloaded.
 
 
-2. Description of the jupyter notebook
+##2. Jupyter notebook-
 
-At the beginning of the jupyter notebook, you should put the path of the file
-"books.csv".
+At the beginning of the jupyter notebook, the path of the csv file is to be provided.
 
 The jupyter notebook is divided in 3 main parts : 
-1)- Exploratory analysis of the data 
-2)- Feature engineering and selection
-3)- Model training and evaluation
+1)- Exploratory data analysis.
+2)- Feature engineering and selection.
+3)- Model training and evaluation.
 
-3. Description of requirements.txt file
+##3. Requirements.txt-
 
-The file "requirements.txt" contains all the versions of librairies needed to 
+The file "requirements.txt" contains all versions of librairies needed to 
 run this notebook.
