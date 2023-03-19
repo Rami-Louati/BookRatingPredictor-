@@ -5,7 +5,7 @@ Table of contents:
    2. Description of the jupyter notebook
    3. Description of requirements.txt file
    
-#1. CSV file overview used in this project-
+# 1. CSV file overview used in this project-
 
 
 The dataset provided is a curation of Goodreads books based on real user information.
