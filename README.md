@@ -30,7 +30,7 @@ standard for English.
 This file needs to be downloaded.
 
 
-##2. Jupyter notebook-
+## 2. Jupyter notebook-
 
 At the beginning of the jupyter notebook, the path of the csv file is to be provided.
 
@@ -39,7 +39,7 @@ The jupyter notebook is divided in 3 main parts :
 2)- Feature engineering and selection.
 3)- Model training and evaluation.
 
-##3. Requirements.txt-
+## 3. Requirements.txt-
 
 The file "requirements.txt" contains all versions of librairies needed to 
 run this notebook.
