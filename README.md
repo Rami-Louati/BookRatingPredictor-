@@ -35,9 +35,12 @@ This file needs to be downloaded.
 At the beginning of the jupyter notebook, the path of the csv file is to be provided.
 
 The jupyter notebook is divided in 3 main parts : 
-1)- Exploratory data analysis.
-2)- Feature engineering and selection.
-3)- Model training and evaluation.
+
+1)Exploratory data analysis.
+
+2)Feature engineering and selection.
+
+3)Model training and evaluation.
 
 ## 3. Requirements.txt
 
